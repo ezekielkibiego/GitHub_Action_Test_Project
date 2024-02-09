@@ -1,1 +1,1 @@
-# GitHub_Action_Test_Project
+# A simple Node.js authentication with JWT
